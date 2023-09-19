@@ -50,7 +50,7 @@
 
 # 脚本使用说明
 
-安装：
+一键安装：
 
 ```bash
 bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh)
