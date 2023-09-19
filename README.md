@@ -47,7 +47,6 @@
 安装及使用：https://233boy.com/xray/xray-script/
 
 
-
 # 脚本使用说明
 
 **一键安装：**
