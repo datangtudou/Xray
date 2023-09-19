@@ -49,14 +49,14 @@
 
 # 脚本使用说明
 
-## 安装：
+安装：
 
 ```bash
 bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh)
 ```
 
 
-## bbr脚本：
+bbr脚本：
 
 ```bash
 wget -O tcpx.sh "https://github.com/ylx2016/Linux-NetSpeed/raw/master/tcpx.sh" && chmod +x tcpx.sh && ./tcpx.sh
