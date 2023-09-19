@@ -59,6 +59,8 @@ bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh)
 wget -O tcpx.sh "https://github.com/ylx2016/Linux-NetSpeed/raw/master/tcpx.sh" && chmod +x tcpx.sh && ./tcpx.sh
 ```
 
+
+
 # 帮助：
 
 使用：`xray help`
