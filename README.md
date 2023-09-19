@@ -61,7 +61,7 @@ wget -O tcpx.sh "https://github.com/ylx2016/Linux-NetSpeed/raw/master/tcpx.sh" &
 
 
 
-# 帮助：
+# 帮助
 
 使用：`xray help`
 
