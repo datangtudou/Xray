@@ -45,6 +45,17 @@
 
 安装及使用：https://233boy.com/xray/xray-script/
 
+# 脚本使用说明
+
+```bash
+bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh)
+
+# bbr脚本
+
+```bash
+wget -O tcpx.sh "https://github.com/ylx2016/Linux-NetSpeed/raw/master/tcpx.sh" && chmod +x tcpx.sh && ./tcpx.sh
+
+
 # 帮助
 
 使用：`xray help`
