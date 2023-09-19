@@ -50,18 +50,18 @@
 
 # 脚本使用说明
 
-   **一键安装：**
+**一键安装：**
 
 ```bash
 bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh)
 ```
 
-   **脚本使用：**
+**脚本使用：**
 ```
 xray
 ```
 
-   **bbr一键脚本：**
+**bbr一键脚本：**
 
 ```bash
 wget -O tcpx.sh "https://github.com/ylx2016/Linux-NetSpeed/raw/master/tcpx.sh" && chmod +x tcpx.sh && ./tcpx.sh
