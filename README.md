@@ -52,7 +52,7 @@
 **一键安装：**
 
 ```bash
-bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh)
+bash <(wget -qO- -o- https://github.com/datangtudou/Xray-233/raw/main/install.sh)
 ```
 
 **脚本使用：**
